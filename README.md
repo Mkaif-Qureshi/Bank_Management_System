@@ -43,7 +43,7 @@ This project is a C-based Bank Management System allowing administrators to perf
 
 The application utilizes ANSI color codes for text coloration. While commonly supported in Unix-based systems like macOS, some terminal emulators or settings might not interpret these codes correctly, leading to improper color rendering. If you encounter issues with color display, consider running the application in a different terminal or disabling color formatting within the application settings.
 
-## glance of system:
+## Glance of System
 
 <img width="441" alt="image" src="https://github.com/Mkaif-Qureshi/Bank_Management_System/assets/86159667/25bb06c0-854f-46d6-bce0-9888db7cc950">
 <img width="441" alt="image" src="https://github.com/Mkaif-Qureshi/Bank_Management_System/assets/86159667/772af885-3828-4caa-91ad-10222e59ff88">
