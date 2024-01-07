@@ -41,7 +41,7 @@ This project is a C-based Bank Management System allowing administrators to perf
 
 ### Note on Color Codes
 
-The application utilizes ANSI color codes for text coloration. While commonly supported in Unix-based systems like macOS, some terminal emulators or settings might not interpret these codes correctly, leading to improper color rendering. If you encounter issues with color display, consider running the application in a different terminal or disabling color formatting within the application settings.
+The application utilizes ANSI color codes for text coloration. While commonly supported in Unix-based systems like macOS, some terminal emulators or settings might not interpret these codes correctly, leading to improper color rendering. If you encounter issues with color display, consider running the application in a different terminal.
 
 ## Glance of System
 
