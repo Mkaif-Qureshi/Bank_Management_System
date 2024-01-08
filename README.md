@@ -51,17 +51,3 @@ The application utilizes ANSI color codes for text coloration. While commonly su
 <img width="441" alt="image" src="https://github.com/Mkaif-Qureshi/Bank_Management_System/assets/86159667/da835c25-147e-4085-8f0e-7348ad5fb313">
 <img width="441" alt="image" src="https://github.com/Mkaif-Qureshi/Bank_Management_System/assets/86159667/aa00b82e-895f-4e46-9607-8791cdcb25cc">
 <img width="441" alt="image" src="https://github.com/Mkaif-Qureshi/Bank_Management_System/assets/86159667/e012dae3-a411-4ab3-b5b0-4a5dfe3a0864">
-
-## Future Enhancements
-
-### 🚀 Functionalities to Explore for Future Development:
-
-1. **Transaction History:** Record and display transaction history for customers to review past activities.
-   
-2. **Account Types:** Implement diverse account types (e.g., savings, checking, business) with varying features.
-   
-3. **Account Locking:** Introduce temporary account locking for security purposes or at customer request.
-      
-4. **Data Encryption:** Implement encryption techniques to secure sensitive customer information.
-   
-5. **Automated Bill Payments:** Simplify bill payments by enabling automatic payments for registered customers.
